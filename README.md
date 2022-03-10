@@ -1,4 +1,4 @@
-# Title
+# ERIS: Environment for Realtime Information Services
 
 Ooops. This article hasn't been written yet.
 
